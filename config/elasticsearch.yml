@@ -1,2 +1,4 @@
 # bind to all network interfaces
-network.host: elasticsearch
+network.host: elasticsearch-0nuy:9200
+
+
