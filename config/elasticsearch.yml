@@ -1,3 +1,2 @@
-cluster.name: "elastic"
 # bind to all network interfaces
 network.host: elasticsearch
